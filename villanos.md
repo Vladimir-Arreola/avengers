@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * Freezer
+* Capitán America
